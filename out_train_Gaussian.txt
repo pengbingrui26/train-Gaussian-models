@@ -1,0 +1,2000 @@
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+0 0.43346024 0.5 -0.05216133 0.0042865016
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+1 0.43445948 0.5 -0.052153442 0.004294388
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+2 0.43545747 0.5 -0.05214826 0.00429957
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+3 0.43645373 0.5 -0.05214575 0.0043020807
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+4 0.43744776 0.5 -0.052145902 0.004301928
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+5 0.438439 0.5 -0.052148607 0.0042992234
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+6 0.43942702 0.5 -0.052153867 0.0042939633
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+7 0.4404113 0.5 -0.052161597 0.0042862333
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+8 0.44139135 0.5 -0.05217174 0.0042760894
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+9 0.4423667 0.5 -0.052184276 0.004263554
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+10 0.44333687 0.5 -0.05219906 0.004248772
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+11 0.44430143 0.5 -0.052216135 0.004231695
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+12 0.4452599 0.5 -0.052235313 0.0042125173
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+13 0.44621184 0.5 -0.052256603 0.0041912273
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+14 0.44715688 0.5 -0.0522799 0.0041679293
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+15 0.44809458 0.5 -0.052305087 0.0041427426
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+16 0.4490246 0.5 -0.05233216 0.004115671
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+17 0.44994652 0.5 -0.052361004 0.004086826
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+18 0.45086002 0.5 -0.052391503 0.004056327
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+19 0.4517648 0.5 -0.052423637 0.0040241927
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+20 0.4526605 0.5 -0.05245725 0.0039905794
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+21 0.45354685 0.5 -0.05249234 0.003955491
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+22 0.45442358 0.5 -0.052528735 0.003919095
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+23 0.45529044 0.5 -0.052566428 0.0038814023
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+24 0.4561472 0.5 -0.052605316 0.003842514
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+25 0.45699367 0.5 -0.0526453 0.0038025305
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+26 0.45782962 0.5 -0.05268629 0.003761541
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+27 0.4586549 0.5 -0.05272824 0.0037195906
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+28 0.45946938 0.5 -0.05277107 0.003676761
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+29 0.4602729 0.5 -0.05281469 0.0036331415
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+30 0.46106535 0.5 -0.05285903 0.0035887994
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+31 0.46184665 0.5 -0.052904002 0.0035438277
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+32 0.46261668 0.5 -0.052949585 0.003498245
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+33 0.46337542 0.5 -0.052995667 0.0034521632
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+34 0.4641228 0.5 -0.0530422 0.0034056306
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+35 0.4648588 0.5 -0.053089146 0.0033586845
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+36 0.46558338 0.5 -0.053136393 0.0033114366
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+37 0.46629655 0.5 -0.05318392 0.0032639094
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+38 0.4669983 0.5 -0.053231664 0.003216166
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+39 0.46768868 0.5 -0.05327954 0.0031682886
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+40 0.4683677 0.5 -0.053327568 0.0031202622
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+41 0.4690354 0.5 -0.053375658 0.0030721724
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+42 0.4696918 0.5 -0.053423736 0.0030240938
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+43 0.47033706 0.5 -0.05347181 0.002976019
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+44 0.47097117 0.5 -0.05351983 0.002928
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+45 0.4715942 0.5 -0.05356771 0.0028801188
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+46 0.4722063 0.5 -0.053615466 0.0028323643
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+47 0.47280753 0.5 -0.05366303 0.0027847998
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+48 0.47339797 0.5 -0.053710435 0.0027373955
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+49 0.47397774 0.5 -0.053757556 0.0026902743
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+50 0.47454697 0.5 -0.053804424 0.0026434064
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+51 0.47510573 0.5 -0.053850982 0.0025968477
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+52 0.47565418 0.5 -0.05389724 0.0025505908
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+53 0.4761924 0.5 -0.05394315 0.0025046803
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+54 0.47672057 0.5 -0.053988706 0.0024591237
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+55 0.47723877 0.5 -0.05403387 0.0024139583
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+56 0.47774714 0.5 -0.05407863 0.002369199
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+57 0.4782458 0.5 -0.05412296 0.0023248717
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+58 0.4787349 0.5 -0.054166876 0.0022809543
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+59 0.47921458 0.5 -0.054210328 0.0022375025
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+60 0.47968495 0.5 -0.054253332 0.0021944977
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+61 0.48014617 0.5 -0.05429586 0.0021519698
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+62 0.4805984 0.5 -0.054337896 0.0021099336
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+63 0.48104173 0.5 -0.054379456 0.0020683743
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+64 0.4814763 0.5 -0.054420505 0.0020273253
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+65 0.48190227 0.5 -0.05446106 0.0019867718
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+66 0.48231977 0.5 -0.05450109 0.0019467399
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+67 0.48272893 0.5 -0.054540604 0.0019072257
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+68 0.4831299 0.5 -0.054579575 0.0018682554
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+69 0.48352277 0.5 -0.054618027 0.001829803
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+70 0.48390773 0.5 -0.054655932 0.0017918982
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+71 0.4842849 0.5 -0.054693334 0.0017544962
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+72 0.4846544 0.5 -0.054730188 0.001717642
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+73 0.48501635 0.5 -0.054766502 0.0016813278
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+74 0.4853709 0.5 -0.05480227 0.0016455613
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+75 0.4857182 0.5 -0.054837488 0.0016103424
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+76 0.48605832 0.5 -0.054872192 0.0015756376
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+77 0.48639143 0.5 -0.054906346 0.0015414841
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+78 0.4867176 0.5 -0.05493997 0.0015078597
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+79 0.487037 0.5 -0.05497304 0.0014747903
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+80 0.48734975 0.5 -0.055005565 0.0014422648
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+81 0.48765594 0.5 -0.055037595 0.0014102347
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+82 0.48795572 0.5 -0.055069067 0.0013787635
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+83 0.48824918 0.5 -0.055099998 0.0013478324
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+84 0.48853645 0.5 -0.05513043 0.0013174005
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+85 0.48881763 0.5 -0.055160332 0.0012874976
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+86 0.48909283 0.5 -0.055189732 0.0012580976
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+87 0.48936215 0.5 -0.055218626 0.0012292042
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+88 0.48962572 0.5 -0.055246983 0.0012008473
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+89 0.48988363 0.5 -0.05527485 0.0011729784
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+90 0.490136 0.5 -0.055302195 0.0011456348
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+91 0.4903829 0.5 -0.05532904 0.0011187904
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+92 0.4906245 0.5 -0.05535542 0.0010924116
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+93 0.49086082 0.5 -0.05538131 0.0010665208
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+94 0.491092 0.5 -0.055406712 0.001041118
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+95 0.49131814 0.5 -0.055431638 0.0010161921
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+96 0.4915393 0.5 -0.055456094 0.0009917356
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+97 0.4917556 0.5 -0.05548009 0.000967741
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+98 0.49196714 0.5 -0.05550361 0.00094421953
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+99 0.492174 0.5 -0.055526696 0.0009211339
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+100 0.49237624 0.5 -0.055549316 0.00089851394
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+101 0.49257398 0.5 -0.055571478 0.0008763522
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+102 0.4927673 0.5 -0.05559321 0.00085461885
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+103 0.49295628 0.5 -0.055614512 0.00083331764
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+104 0.493141 0.5 -0.055635404 0.0008124262
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+105 0.49332154 0.5 -0.055655845 0.00079198554
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+106 0.493498 0.5 -0.05567588 0.00077195093
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+107 0.49367043 0.5 -0.05569552 0.0007523112
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+108 0.49383894 0.5 -0.055714708 0.00073312223
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+109 0.49400356 0.5 -0.05573357 0.0007142611
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+110 0.4941644 0.5 -0.055751957 0.00069587305
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+111 0.49432153 0.5 -0.05577 0.0006778315
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+112 0.494475 0.5 -0.055787668 0.0006601624
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+113 0.4946249 0.5 -0.05580493 0.0006428994
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+114 0.49477133 0.5 -0.055821832 0.0006259978
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+115 0.49491432 0.5 -0.05583839 0.00060943887
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+116 0.49505395 0.5 -0.055854578 0.0005932525
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+117 0.49519026 0.5 -0.055870403 0.00057742745
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+118 0.49532336 0.5 -0.055885892 0.0005619377
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+119 0.49545327 0.5 -0.055901024 0.00054680556
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+120 0.49558008 0.5 -0.055915806 0.0005320236
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+121 0.49570385 0.5 -0.055930298 0.00051753223
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+122 0.49582464 0.5 -0.055944413 0.0005034171
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+123 0.4959425 0.5 -0.055958252 0.00048957765
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+124 0.4960575 0.5 -0.05597177 0.00047605857
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+125 0.49616972 0.5 -0.055984948 0.00046288222
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+126 0.49627918 0.5 -0.055997834 0.00044999644
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+127 0.49638593 0.5 -0.056010436 0.00043739378
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+128 0.49649006 0.5 -0.05602274 0.00042508915
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+129 0.4965916 0.5 -0.056034733 0.00041309744
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+130 0.49669063 0.5 -0.056046445 0.00040138513
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+131 0.49678716 0.5 -0.05605789 0.00038994104
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+132 0.49688128 0.5 -0.056069065 0.00037876517
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+133 0.496973 0.5 -0.05607998 0.00036785007
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+134 0.49706244 0.5 -0.056090612 0.0003572181
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+135 0.4971496 0.5 -0.056101006 0.00034682453
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+136 0.4972345 0.5 -0.056111127 0.0003367029
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+137 0.49731722 0.5 -0.056120984 0.0003268458
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+138 0.49739784 0.5 -0.056130625 0.00031720474
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+139 0.49747637 0.5 -0.05614002 0.00030780956
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+140 0.49755284 0.5 -0.05614918 0.00029864907
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+141 0.49762732 0.5 -0.056158103 0.000289727
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+142 0.49769986 0.5 -0.0561668 0.00028102845
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+143 0.4977705 0.5 -0.056175318 0.00027251244
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+144 0.49783924 0.5 -0.05618358 0.00026424974
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+145 0.49790615 0.5 -0.056191612 0.00025621802
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+146 0.49797127 0.5 -0.05619945 0.00024838
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+147 0.49803466 0.5 -0.05620711 0.00024072081
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+148 0.49809632 0.5 -0.056214537 0.00023329258
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+149 0.4981563 0.5 -0.056221787 0.00022604316
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+150 0.4982147 0.5 -0.05622883 0.00021899864
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+151 0.49827147 0.5 -0.056235705 0.00021212548
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+152 0.4983267 0.5 -0.056242395 0.00020543486
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+153 0.4983804 0.5 -0.05624889 0.00019894168
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+154 0.4984326 0.5 -0.05625521 0.00019261986
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+155 0.49848336 0.5 -0.056261368 0.00018646196
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+156 0.49853268 0.5 -0.05626736 0.00018047169
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+157 0.49858063 0.5 -0.05627321 0.00017461926
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+158 0.49862722 0.5 -0.05627885 0.00016897917
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+159 0.4986725 0.5 -0.05628435 0.00016348064
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+160 0.49871644 0.5 -0.056289714 0.00015811622
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+161 0.49875915 0.5 -0.056294907 0.00015292317
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+162 0.49880064 0.5 -0.05629999 0.00014784187
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+163 0.4988409 0.5 -0.05630487 0.00014296174
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+164 0.49888 0.5 -0.05630964 0.00013818964
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+165 0.49891797 0.5 -0.056314282 0.00013354793
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+166 0.4989548 0.5 -0.05631878 0.0001290515
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+167 0.49899057 0.5 -0.056323163 0.00012466684
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+168 0.49902526 0.5 -0.05632738 0.00012044981
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+169 0.4990589 0.5 -0.056331504 0.000116325915
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+170 0.49909157 0.5 -0.056335498 0.000112332404
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+171 0.49912325 0.5 -0.05633938 0.00010845065
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+172 0.49915394 0.5 -0.05634314 0.00010469183
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+173 0.4991837 0.5 -0.056346793 0.00010103732
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+174 0.49921256 0.5 -0.05635034 9.749085e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+175 0.49924055 0.5 -0.05635375 9.407848e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+176 0.49926767 0.5 -0.05635709 9.074062e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+177 0.49929392 0.5 -0.05636031 8.7518245e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+178 0.49931937 0.5 -0.056363452 8.4377825e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+179 0.49934402 0.5 -0.056366466 8.1364065e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+180 0.4993679 0.5 -0.05636943 7.8398734e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+181 0.49939102 0.5 -0.056372263 7.5567514e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+182 0.4994134 0.5 -0.056375023 7.280707e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+183 0.49943507 0.5 -0.0563777 7.012859e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+184 0.49945605 0.5 -0.05638026 6.7569315e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+185 0.49947634 0.5 -0.05638276 6.5069646e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+186 0.49949598 0.5 -0.056385193 6.263703e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+187 0.49951497 0.5 -0.056387536 6.0293823e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+188 0.49953333 0.5 -0.056389794 5.8036298e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+189 0.4995511 0.5 -0.056391973 5.5857003e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+190 0.49956825 0.5 -0.056394104 5.3726137e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+191 0.49958485 0.5 -0.056396164 5.166605e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+192 0.4996009 0.5 -0.05639815 4.968047e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+193 0.49961638 0.5 -0.056400064 4.7765672e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+194 0.49963135 0.5 -0.056401927 4.5903027e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+195 0.4996458 0.5 -0.056403693 4.413724e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+196 0.49965978 0.5 -0.056405433 4.239753e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+197 0.49967328 0.5 -0.05640708 4.075095e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+198 0.4996863 0.5 -0.056408715 3.9115548e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+199 0.49969888 0.5 -0.05641027 3.7558377e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+200 0.499711 0.5 -0.056411754 3.607571e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+201 0.49972272 0.5 -0.056413207 3.4622848e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+202 0.499734 0.5 -0.056414623 3.3207238e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+203 0.4997449 0.5 -0.056415964 3.1866133e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+204 0.49975538 0.5 -0.05641727 3.0558556e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+205 0.4997655 0.5 -0.05641853 2.9299408e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+206 0.49977523 0.5 -0.056419738 2.8092414e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+207 0.49978462 0.5 -0.056420904 2.6926398e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+208 0.49979368 0.5 -0.05642202 2.5808811e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+209 0.4998024 0.5 -0.056423124 2.4706125e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+210 0.4998108 0.5 -0.05642415 2.368167e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+211 0.4998189 0.5 -0.056425177 2.265349e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+212 0.49982667 0.5 -0.056426134 2.169609e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+213 0.49983415 0.5 -0.05642706 2.0768493e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+214 0.49984136 0.5 -0.056427963 1.9866973e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+215 0.4998483 0.5 -0.05642882 1.9010156e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+216 0.49985498 0.5 -0.05642965 1.8179417e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+217 0.4998614 0.5 -0.056430455 1.7374754e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+218 0.49986756 0.5 -0.05643121 1.661852e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+219 0.4998735 0.5 -0.056431945 1.5884638e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+220 0.49987918 0.5 -0.056432683 1.514703e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+221 0.49988467 0.5 -0.056433372 1.4457852e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+222 0.4998899 0.5 -0.05643401 1.3820827e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+223 0.49989495 0.5 -0.05643463 1.31987035e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+224 0.49989977 0.5 -0.056435235 1.25952065e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+225 0.49990442 0.5 -0.056435827 1.2002885e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+226 0.4999089 0.5 -0.05643637 1.1458993e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+227 0.4999132 0.5 -0.056436893 1.0937452e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+228 0.4999173 0.5 -0.056437425 1.0404736e-05
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+229 0.49992123 0.5 -0.056437925 9.905547e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+230 0.49992502 0.5 -0.0564384 9.42871e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+231 0.49992862 0.5 -0.056438833 8.996576e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+232 0.49993208 0.5 -0.056439273 8.556992e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+233 0.4999354 0.5 -0.0564397 8.128583e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+234 0.49993858 0.5 -0.056440085 7.7448785e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+235 0.49994162 0.5 -0.056440458 7.3723495e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+236 0.49994454 0.5 -0.05644083 6.9998205e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+237 0.4999473 0.5 -0.0564412 6.6310167e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+238 0.49994996 0.5 -0.0564415 6.329268e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+239 0.4999525 0.5 -0.056441844 5.9865415e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+240 0.49995494 0.5 -0.056442138 5.6922436e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+241 0.49995726 0.5 -0.056442417 5.412847e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+242 0.49995947 0.5 -0.05644271 5.118549e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+243 0.49996158 0.5 -0.056442972 4.8577785e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+244 0.4999636 0.5 -0.056443237 4.593283e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+245 0.49996555 0.5 -0.056443468 4.362315e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+246 0.4999674 0.5 -0.056443706 4.1238964e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+247 0.49996915 0.5 -0.05644392 3.911555e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+248 0.49997082 0.5 -0.056444127 3.7029386e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+249 0.49997243 0.5 -0.056444354 3.4756958e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+250 0.49997395 0.5 -0.056444522 3.3080578e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+251 0.4999754 0.5 -0.056444712 3.118068e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+252 0.49997678 0.5 -0.056444883 2.9467046e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+253 0.4999781 0.5 -0.056445055 2.7753413e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+254 0.49997935 0.5 -0.056445196 2.6337802e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+255 0.49998054 0.5 -0.05644537 2.4586916e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+256 0.49998167 0.5 -0.05644552 2.30968e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+257 0.49998274 0.5 -0.056445647 2.1830201e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+258 0.49998376 0.5 -0.056445763 2.0675361e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+259 0.49998474 0.5 -0.056445878 1.9520521e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+260 0.49998567 0.5 -0.05644601 1.821667e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+261 0.49998653 0.5 -0.056446128 1.7024577e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+262 0.49998736 0.5 -0.05644623 1.6018748e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+263 0.49998814 0.5 -0.056446318 1.5124679e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+264 0.49998888 0.5 -0.056446414 1.4156103e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+265 0.4999896 0.5 -0.05644649 1.3411045e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+266 0.49999025 0.5 -0.056446593 1.2367964e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+267 0.49999088 0.5 -0.05644666 1.1697412e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+268 0.49999148 0.5 -0.05644674 1.0915101e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+269 0.49999204 0.5 -0.056446813 1.0170043e-06
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+270 0.49999258 0.5 -0.0564469 9.313226e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+271 0.4999931 0.5 -0.056446955 8.754432e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+272 0.49999356 0.5 -0.05644702 8.08388e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+273 0.499994 0.5 -0.05644707 7.599592e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+274 0.49999443 0.5 -0.05644712 7.1153045e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+275 0.4999948 0.5 -0.056447167 6.631017e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+276 0.4999952 0.5 -0.056447223 6.072223e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+277 0.49999556 0.5 -0.056447264 5.662441e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+278 0.4999959 0.5 -0.056447312 5.1781535e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+279 0.49999622 0.5 -0.05644736 4.6938658e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+280 0.4999965 0.5 -0.056447387 4.4330955e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+281 0.49999678 0.5 -0.056447417 4.1350722e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+282 0.49999705 0.5 -0.056447446 3.837049e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+283 0.4999973 0.5 -0.056447472 3.5762787e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+284 0.49999753 0.5 -0.05644752 3.091991e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+285 0.49999774 0.5 -0.05644754 2.9057264e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+286 0.49999794 0.5 -0.05644755 2.7939677e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+287 0.49999812 0.5 -0.0564476 2.30968e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+288 0.4999983 0.5 -0.05644763 2.0116568e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+289 0.49999845 0.5 -0.056447636 1.937151e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+290 0.4999986 0.5 -0.056447636 1.937151e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+291 0.49999875 0.5 -0.056447666 1.6391277e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+292 0.49999887 0.5 -0.056447692 1.3783574e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+293 0.499999 0.5 -0.056447696 1.3411045e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+294 0.4999991 0.5 -0.05644773 1.0058284e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+295 0.49999923 0.5 -0.056447722 1.0803342e-07
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+296 0.4999993 0.5 -0.05644775 7.8231096e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+297 0.4999994 0.5 -0.056447778 5.2154064e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+298 0.4999995 0.5 -0.05644776 7.0780516e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+299 0.49999958 0.5 -0.056447763 6.7055225e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+300 0.49999964 0.5 -0.05644778 4.8428774e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+301 0.4999997 0.5 -0.056447778 5.2154064e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+302 0.49999976 0.5 -0.056447815 1.4901161e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+303 0.49999982 0.5 -0.056447815 1.4901161e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+304 0.49999988 0.5 -0.0564478 2.9802322e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+305 0.49999994 0.5 -0.056447815 1.4901161e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+306 0.49999997 0.5 -0.05644783 0.0
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+307 0.5 0.5 -0.056447826 3.7252903e-09
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+308 0.50000006 0.5 -0.05644783 0.0
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+309 0.5000001 0.5 -0.056447845 -1.4901161e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+310 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+311 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+312 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+313 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+314 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+315 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+316 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+317 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+318 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+319 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+320 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+321 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+322 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+323 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+324 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+325 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+326 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+327 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+328 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+329 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+330 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+331 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+332 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+333 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+334 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+335 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+336 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+337 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+338 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+339 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+340 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+341 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+342 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+343 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+344 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+345 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+346 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+347 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+348 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+349 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+350 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+351 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+352 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+353 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+354 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+355 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+356 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+357 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+358 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+359 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+360 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+361 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+362 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+363 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+364 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+365 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+366 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+367 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+368 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+369 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+370 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+371 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+372 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+373 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+374 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+375 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+376 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+377 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+378 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+379 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+380 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+381 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+382 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+383 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+384 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+385 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+386 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+387 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+388 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+389 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+390 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+391 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+392 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+393 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+394 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+395 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+396 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+397 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+398 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+399 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+400 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+401 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+402 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+403 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+404 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+405 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+406 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+407 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+408 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+409 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+410 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+411 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+412 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+413 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+414 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+415 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+416 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+417 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+418 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+419 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+420 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+421 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+422 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+423 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+424 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+425 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+426 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+427 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+428 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+429 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+430 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+431 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+432 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+433 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+434 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+435 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+436 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+437 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+438 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+439 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+440 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+441 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+442 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+443 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+444 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+445 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+446 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+447 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+448 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+449 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+450 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+451 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+452 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+453 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+454 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+455 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+456 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+457 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+458 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+459 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+460 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+461 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+462 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+463 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+464 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+465 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+466 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+467 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+468 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+469 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+470 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+471 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+472 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+473 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+474 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+475 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+476 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+477 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+478 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+479 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+480 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+481 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+482 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+483 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+484 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+485 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+486 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+487 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+488 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+489 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+490 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+491 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+492 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+493 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+494 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+495 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+496 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+497 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+498 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
+istep, sigma, 1/sqrt(beta), loss, loss-F_mean0:
+499 0.5000001 0.5 -0.056447864 -3.3527613e-08
+
+
